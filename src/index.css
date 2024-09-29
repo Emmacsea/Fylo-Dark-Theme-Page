@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.list {
+  @apply text-neutral-300 text-sm font-light hover:text-neutral-white
+}
+
+.b:hover {
+  @apply bg-gradient-to-t from-accent-cyan to-accent-cyan
+}
