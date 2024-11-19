@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .list {
-  @apply text-neutral-300 text-sm font-light hover:text-neutral-white
+  @apply text-neutral-300 md:text-sm text-xs font-light hover:text-neutral-white
 }
 
 .b:hover {
